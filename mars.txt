@@ -1,3 +1,6 @@
+#Lines Added by Sajid
+Mars is a Planet.
+#Lines added by Waseem
 Mars is cold and mostly dry
 Mars has two moons it may be problem for Wolfman
 
